@@ -1,0 +1,9 @@
+# Pinned versions. Install inside a virtual environment with:
+#   python -m pip install -r requirements.txt
+pytest==8.3.5
+fastapi==0.115.6
+uvicorn==0.32.1
+pydantic==2.10.4
+httpx==0.28.1
+streamlit==1.41.1
+pandas==2.2.3

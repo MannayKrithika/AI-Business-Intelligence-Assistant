@@ -1,0 +1,11 @@
+# Presentation only: a light, consistent look regardless of the browser or operating-system theme.
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f7fb"
+textColor = "#1f2a44"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
